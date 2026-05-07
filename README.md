@@ -54,3 +54,7 @@ The script performs a deep-dive audit across many domains.
 | **T1124** | System Time Discovery | Establishing a timeline of system activity via the audit log. |
 
 ---
+
+<p align="center">
+  With ❤️ by <b>Aradhya</b>
+</p>
