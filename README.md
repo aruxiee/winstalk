@@ -56,5 +56,5 @@ The script performs a deep-dive audit across many domains.
 ---
 
 <p align="center">
-  With ❤️ by <b>Aradhya</b>
+  With ❤️ by <b>Arusha</b>
 </p>
